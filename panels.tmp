@@ -1,0 +1,4 @@
+installer/panels/src/nxt/installer/ConfigPanel.java
+installer/panels/src/nxt/installer/ConfigHandler.java
+installer/panels/src/nxt/installer/InstallListener.java
+installer/panels/src/nxt/installer/ConfigConsolePanel.java
